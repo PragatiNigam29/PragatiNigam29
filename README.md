@@ -7,15 +7,15 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-I am a Full Stack Developer and AI/ML student at COER University. I focus on building practical backend systems with **Django**, handling data with **PostgreSQL/SQLite**, and exploring image forensics & computer vision.
+I am a Full Stack Developer and AI/ML student at COER University. I focus on building practical backend systems with **Django**, handling data with **PostgreSQL/SQLite**, and an ML enthusiast.
 
 ---
 
 ### 🛠️ Core Tech Stack
 
-- **Backend & Web:** Python, Django, HTML5, CSS3
+- **Backend & Web:** Python, Django, HTML5, CSS3, javascript
 - **Databases:** PostgreSQL, SQLite
-- **AI/ML & Analytics:** OpenCV, TensorFlow (CNNs), Power BI
+- **AI/ML & Analytics:** OpenCV, TensorFlow (CNNs), Pandas,Seaborn
 
 ---
 
@@ -30,16 +30,6 @@ An image forensics web app built with **Django and OpenCV**. It analyzes uploade
 #### 📧 [Email Tracking System](https://github.com/nigampragati1029)
 A Django backend application that uses UUID URLs to track email opens and seamlessly updates recipient status in the database.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nigampragati1029&show_icons=true&theme=radical" alt="Pragati's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigampragati1029&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
