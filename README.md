@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  
+  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-Artificial_Intelligence-blue?style=flat&logo=scikit-learn)](https://github.com/PragatiNigam29)
 </p>
 
 I am a Full Stack Developer and AI/ML student at COER University. I focus on building practical backend systems with **Django**, handling data with **PostgreSQL/SQLite**, and an ML enthusiast.
