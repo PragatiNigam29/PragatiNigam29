@@ -22,14 +22,19 @@ I am a Full Stack Developer and AI/ML student at COER University. I focus on bui
 
 ### 📂 Featured Projects
 
-#### 📖 [Secret Ink](https://github.com/nigampragati1029)
+ [Secret Ink](https://github.com/nigampragati1029)
 A realistic, diary-inspired digital diary experience built using **Django**. Features custom page numbering, bookmarks, and a paper-texture feel for personal writing.
 
-#### 🔍 [Fake Chat Screenshot Detector](https://github.com/nigampragati1029)
+ [Fake Chat Screenshot Detector](https://github.com/nigampragati1029)
 An image forensics web app built with **Django and OpenCV**. It analyzes uploaded screenshots, generates Error Level Analysis (ELA) images, and calculates manipulation probability scores.
 
-#### 📧 [Email Tracking System](https://github.com/nigampragati1029)
+[Email Tracking System](https://github.com/nigampragati1029)
 A Django backend application that uses UUID URLs to track email opens and seamlessly updates recipient status in the database.
+
+[Autonomous Ai Marketing Agent}(https://github.com/PragatiNigam29/Autonomous-ai-marketing-agenc)
+An intelligent automation system designed to streamline marketing workflows
+
+
 
 
 ### 🤝 Connect with Me
