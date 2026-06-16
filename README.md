@@ -8,7 +8,7 @@
   [![Machine Learning](https://img.shields.io/badge/Machine_Learning-Artificial_Intelligence-blue?style=flat&logo=scikit-learn)](https://github.com/PragatiNigam29)
 </p>
 
-I am a Full Stack Developer and AI/ML student at COER University. I focus on building practical backend systems with **Django**, handling data with **PostgreSQL/SQLite**, and an ML enthusiast.
+I am a Full Stack Developer and AI/ML student at COER University. I focus on building practical backend systems with **Django**, handling data with **PostgreSQL/SQLite**, and an GenAi enthusiast.
 
 ---
 
