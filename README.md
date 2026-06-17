@@ -62,49 +62,36 @@ Generative AI| Learning| LLM Applications & AI Agents
 
 Featured Projects
 
-<details>
-<summary><b>Smart Productivity Chrome Extension</b></summary>Overview
+### Featured Projects
 
-A browser extension designed to improve productivity through intelligent task management and workflow optimization.
+#### 1. Autonomous AI Marketing and Branding Agency
+An autonomous multi-agent AI system that automates the end-to-end marketing, branding, and graphic design workflow. It utilizes local LLMs and node-based generative AI to act as a complete digital marketing agency.
 
-Category| Details
-Stack| JavaScript, HTML, CSS
-Scale| Student Project
-Performance| Lightweight Browser Extension
-Security| Browser Permission Based
-Impact| Improved Productivity
-Repository| Add Repository Link
+| Category | Details |
+| :--- | :--- |
+| **Stack** | Python, Streamlit, Ollama (Qwen 2.5), ComfyUI API, JSON |
+| **Scale** | Multi-Agent AI System (Orchestrated Workflow) |
+| **Performance** | Fast Asynchronous Text Generation & Background Image Rendering |
+| **Security** | Local-First Processing (Data Privacy & Zero API Exposure) |
+| **Impact** | Streamlines end-to-end brand identity and content creation, reducing manual branding effort by over 80%. |
 
-Built during the early stages of my engineering journey to explore browser technologies and user-focused product development.
+[Repository Link](https://github.com/PragatiNigam29/Autonomous-ai-marketing-agenc)
 
-</details><details>
-<summary><b>Autonomous AI Marketing and Branding Agency</b></summary>Overview
+---
 
-An autonomous multi-agent AI system built to automate the end-to-end marketing, branding, and graphic design workflow for businesses. By utilizing local Large Language Models (LLMs) and node-based generative AI workflows, this system acts as a complete digital marketing agency running inside a single script.
-
-Category| Details
-Stack| Python, Streamlit, Ollama (Qwen 2.5), ComfyUI API, JSON
-Scale| Multi-Agent AI System (Orchestrated Workflow)
-Performance| Fast Asynchronous Text Generation & Background Image Rendering
-Security| Local-First Processing (Data Privacy & Zero API Exposure)
-Impact| Streamlines end-to-end brand identity and content creation, reducing manual branding effort by over 80%.
-Repository| https://github.com/PragatiNigam29/Autonomous-ai-marketing-agenc
-
-Designed to explore NLP concepts and sentiment-aware text summarization.
-
-</details>
-
-</details>
-<summary><b>Fake Chat Screenshot Detector</b></summary>Overview
+#### 2. Fake Chat Screenshot Detector
 An AI-powered web application that analyzes screenshots and detects possible manipulation using Error Level Analysis (ELA).
 
-Category| Details
-Stack| Python,Django,OpenCV
-Scale| Detection Model (Binary Classification)
-Performance| Real-time image processing with Error Level Analysis (ELA)
-Security| Local-First Processing (Data Privacy & Zero API Exposure)
-Impact| Detects digital image manipulation and ensures authenticity in chat-based evidence.
-Repository| https://github.com/PragatiNigam29/Fake-Chat-Screenshot-Detector
+| Category | Details |
+| :--- | :--- |
+| **Stack** | Python, Django, OpenCV |
+| **Scale** | Detection Model (Binary Classification) |
+| **Performance** | Real-time image processing with Error Level Analysis (ELA) |
+| **Security** | Local-First Processing (Data Privacy & Zero API Exposure) |
+| **Impact** | Detects digital image manipulation and ensures authenticity in chat-based evidence. |
+
+[Repository Link](https://github.com/PragatiNigam29/Fake-Chat-Screenshot-Detector)
+
 
 
 
