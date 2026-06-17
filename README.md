@@ -94,7 +94,7 @@ Designed to explore NLP concepts and sentiment-aware text summarization.
 
 </details>
 
-<details></details>
+</details>
 <summary><b>Fake Chat Screenshot Detector</b></summary>Overview
 An AI-powered web application that analyzes screenshots and detects possible manipulation using Error Level Analysis (ELA).
 
