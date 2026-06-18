@@ -1,206 +1,58 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6A5ACD&text=Pragati%20Nigam&fontColor=ffffff&fontAlignY=40&desc=AI%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=60" width="100%"/>
+# Pragati Nigam
+AI | ML Engineer in Progress
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Impactful+Products;B.Tech+AI%2FML+Student" /><br>"B.Tech" (https://img.shields.io/badge/B.Tech-AI%2FML-6A5ACD?style=for-the-badge)
-"Student" (https://img.shields.io/badge/Student-Engineer-7B68EE?style=for-the-badge)
-"Open Source" (https://img.shields.io/badge/Open%20Source-Contributor-8A2BE2?style=for-the-badge)
-"India" (https://img.shields.io/badge/Location-India-blueviolet?style=for-the-badge)
-
-<a href="https://github.com/PragatiNigam29">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a><a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail"/>
-</a><img src="https://komarev.com/ghpvc/?username=PragatiNigam29&style=for-the-badge&color=blueviolet"/><img src="https://img.shields.io/github/followers/PragatiNigam29?style=for-the-badge&color=8A2BE2"/><img src="https://img.shields.io/github/stars/PragatiNigam29?style=for-the-badge&color=6A5ACD"/></div>---
-
-About Me
-I am a B.Tech AI/ML student passionate about bridging the gap between cutting-edge research and real-world applications. I specialize in building intelligent, scalable systems that leverage the power of Generative AI and Agentic AI workflows.
-
-My core interests and expertise lie in:
-
-Full Stack Development: Building robust, user-centric web applications from the ground up.
-
-Generative AI: Designing and implementing LLM-powered applications and generative models.
-
-Agentic AI: Developing autonomous agents capable of complex reasoning, planning, and task execution to streamline workflows.
-
-Software Engineering: Transforming abstract ideas into production-ready software through clean code, scalable architecture, and continuous problem-solving.
-
-I am always eager to collaborate on projects that push the boundaries of what AI can achieve.
-
-
-
-I enjoy transforming ideas into practical products and continuously improving my engineering skills through projects, coding challenges, and real-world problem solving.
-
-Open To
-
-- AI/ML Projects
-- Open Source Contributions
-- Hackathons
-- Software Engineering Internships
-- Research Collaborations
+![B.Tech](https://img.shields.io/badge/B.Tech-AI%2FML-6A5ACD?style=for-the-badge)
+![Student](https://img.shields.io/badge/Student-Engineer-7B68EE?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-8A2BE2?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-India-blueviolet?style=for-the-badge)
 
 ---
 
-Tech Stack
+## About Me
 
-Languages
+I am a **Full Stack Developer** and **AI/ML enthusiast** dedicated to building the future of intelligent applications. My expertise lies at the intersection of scalable web architecture, **Generative AI**, and **Agentic AI** systems. 
 
-<p align="center"><img src="https://skillicons.dev/icons?i=Python"/></p>Frontend
+I don't just build software; I architect autonomous workflows and AI-driven solutions that bridge the gap between complex research and seamless user experiences. 
 
-<p align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js"/></p>Backend & Databases
-
-<p align="center"><img src="https://skillicons.dev/icons?i=django,fastapi,PostgreSQL,Docker"/></p>Cloud, DevOps & Tools
-
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/></p>---
-
-AI / ML Expertise
-
-Domain| Proficiency| Details
-Machine Learning| Intermediate| Model Development & Evaluation
-Deep Learning| Intermediate| Neural Networks & CNN Fundamentals
-NLP| Intermediate| Text Analytics & Summarization
-Data Analysis| Intermediate| Pandas, NumPy, Visualization
-Python Development| Advanced| Automation & AI Applications
-Generative AI| Learning| LLM Applications & AI Agents
+My core focus areas include:
+* **Full Stack Development:** Building robust, user-centric web applications.
+* **Generative AI:** Designing and implementing LLM-powered applications.
+* **Agentic AI:** Developing autonomous agents capable of complex reasoning, planning, and task execution.
+* **Software Engineering:** Transforming abstract ideas into production-ready software.
 
 ---
 
-Featured Projects
+## Tech Stack
 
-### Featured Projects
+### Frontend
+- HTML5, CSS3, JavaScript, React.js
 
-#### 1. Autonomous AI Marketing and Branding Agency
-An autonomous multi-agent AI system that automates the end-to-end marketing, branding, and graphic design workflow. It utilizes local LLMs and node-based generative AI to act as a complete digital marketing agency.
+### Backend & Databases
+- Django Framework, Django REST API
+- Databases: SQLite (Default), PostgreSQL, MySQL
 
-| Category | Details |
-| :--- | :--- |
-| **Stack** | Python, Streamlit, Ollama (Qwen 2.5), ComfyUI API, JSON |
-| **Scale** | Multi-Agent AI System (Orchestrated Workflow) |
-| **Performance** | Fast Asynchronous Text Generation & Background Image Rendering |
-| **Security** | Local-First Processing (Data Privacy & Zero API Exposure) |
-| **Impact** | Streamlines end-to-end brand identity and content creation, reducing manual branding effort by over 80%. |
-
-[Repository Link](https://github.com/PragatiNigam29/Autonomous-ai-marketing-agenc)
+### Generative & Agentic AI
+- **GenAI:** LangChain, LlamaIndex, OpenAI API, Ollama
+- **Agentic AI:** AutoGen, CrewAI
 
 ---
 
-#### 2. Fake Chat Screenshot Detector
-An AI-powered web application that analyzes screenshots and detects possible manipulation using Error Level Analysis (ELA).
+## Featured Projects
 
-| Category | Details |
-| :--- | :--- |
-| **Stack** | Python, Django, OpenCV |
-| **Scale** | Detection Model (Binary Classification) |
-| **Performance** | Real-time image processing with Error Level Analysis (ELA) |
-| **Security** | Local-First Processing (Data Privacy & Zero API Exposure) |
-| **Impact** | Detects digital image manipulation and ensures authenticity in chat-based evidence. |
+### 1. Autonomous AI Marketing and Branding Agency
+An autonomous multi-agent AI system that automates the end-to-end marketing, branding, and graphic design workflow.
+- **Stack:** Python, Streamlit, Ollama (Qwen 2.5), ComfyUI API
+- **Impact:** Reduces manual branding effort by over 80%.
 
-[Repository Link](https://github.com/PragatiNigam29/Fake-Chat-Screenshot-Detector)
-
-
-
-
-Experience
-
-AI/ML Student Developer
-
-B.Tech Artificial Intelligence & Machine Learning
-
-2025 - Present
-
-- Developing AI and software engineering projects
-- Learning full stack development and GenAI
-- Practicing DSA and interview preparation
-- Exploring open source ecosystems
-
-Skills: Python  • Python  • Django • PostgreSQL • GenAI  
+### 2. Fake Chat Screenshot Detector
+An AI-powered web application that analyzes screenshots and detects possible manipulation using ELA.
+- **Stack:** Python, Django, OpenCV
 
 ---
 
-Achievements
+## Connect
+- **GitHub:** [PragatiNigam29](https://github.com/PragatiNigam29)
+- **LinkedIn:** [Pragati Nigam](https://www.linkedin.com/in/pragati-nigam-305915373/)
+- **Email:** nigampragati1029@gmail.com
 
-
-
----
-
-Certifications
-
-
-
----
-
-Coding Profiles
-
-
-
-
-
-""HackerRank" (https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)" (https://www.hackerrank.com/profile/nigampragati1029)
-
-
-
-</div>---
-
-GitHub Analytics
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PragatiNigam29&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiNigam29&layout=compact&theme=tokyonight"/></div><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PragatiNigam29&theme=tokyonight"/></div>---
-
-GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=PragatiNigam29&theme=tokyonight&column=4"/></div>---
-
-Contribution Activity
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PragatiNigam29&theme=tokyo-night"/></div>---
-
-Contribution Snake
-
-Enable using:
-Platane/snk GitHub Action
-
----
-
-Current Focus
-
-Learning:
-  - GenAI
-  - System Design
-
-Building:
-  - AI Applications
-  - Full Stack Projects
-  - Open Source Portfolio
-
-Exploring:
-  - Generative AI
-  - AI Agents
-  - MLOps
-
-Open To:
-  - Internships
-  - Collaborations
-  - Open Source
-  - Hackathons
-
----
-
-Connect
-
-<div align="center">GitHub:
-https://github.com/PragatiNigam29
-
-LinkedIn:
-https://www.linkedin.com/in/pragati-nigam-305915373/
-
-Portfolio:
-Add Portfolio URL
-
-Email:
-nigampragati1029@gmail.com
-
-</div>---
-
-Quote
-
-«Building intelligent systems today for a smarter tomorrow.»
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=6A5ACD"/>
+> *Building intelligent systems today for a smarter tomorrow.*
