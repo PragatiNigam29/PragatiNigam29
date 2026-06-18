@@ -12,17 +12,21 @@
 </a><img src="https://komarev.com/ghpvc/?username=PragatiNigam29&style=for-the-badge&color=blueviolet"/><img src="https://img.shields.io/github/followers/PragatiNigam29?style=for-the-badge&color=8A2BE2"/><img src="https://img.shields.io/github/stars/PragatiNigam29?style=for-the-badge&color=6A5ACD"/></div>---
 
 About Me
+I am a B.Tech AI/ML student passionate about bridging the gap between cutting-edge research and real-world applications. I specialize in building intelligent, scalable systems that leverage the power of Generative AI and Agentic AI workflows.
 
-I'm a B.Tech AI/ML student passionate about building scalable software products and intelligent systems.
+My core interests and expertise lie in:
 
-My interests span across:
+Full Stack Development: Building robust, user-centric web applications from the ground up.
 
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Product Engineering
-- Open Source Contributions
+Generative AI: Designing and implementing LLM-powered applications and generative models.
+
+Agentic AI: Developing autonomous agents capable of complex reasoning, planning, and task execution to streamline workflows.
+
+Software Engineering: Transforming abstract ideas into production-ready software through clean code, scalable architecture, and continuous problem-solving.
+
+I am always eager to collaborate on projects that push the boundaries of what AI can achieve.
+
+
 
 I enjoy transforming ideas into practical products and continuously improving my engineering skills through projects, coding challenges, and real-world problem solving.
 
