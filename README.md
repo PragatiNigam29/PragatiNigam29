@@ -1,3 +1,4 @@
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=600&lines=PRAGATI+NIGAM;Full+Stack+Developer;Generative+AI+Engineer;Agentic+AI+Developer" alt="Typing SVG" /></p>
 # Pragati Nigam
 AI | ML Engineer in Progress
 
@@ -18,41 +19,44 @@ My core focus areas include:
 * **Full Stack Development:** Building robust, user-centric web applications.
 * **Generative AI:** Designing and implementing LLM-powered applications.
 * **Agentic AI:** Developing autonomous agents capable of complex reasoning, planning, and task execution.
-* **Software Engineering:** Transforming abstract ideas into production-ready software.
 
 ---
 
 ## Tech Stack
 
-### Frontend
-- HTML5, CSS3, JavaScript, React.js
+### 🛠 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend & Databases
-- Django Framework, Django REST API
-- Databases: SQLite (Default), PostgreSQL, MySQL
+### ⚙️ Backend & Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Generative & Agentic AI
-- **GenAI:** LangChain, LlamaIndex, OpenAI API, Ollama
-- **Agentic AI:** AutoGen, CrewAI
+### 🤖 Generative & Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 1. Autonomous AI Marketing and Branding Agency
 An autonomous multi-agent AI system that automates the end-to-end marketing, branding, and graphic design workflow.
-- **Stack:** Python, Streamlit, Ollama (Qwen 2.5), ComfyUI API
-- **Impact:** Reduces manual branding effort by over 80%.
-
-### 2. Fake Chat Screenshot Detector
+- **Stack:** Python, Streamlit, Ollama, ComfyUI API
+- **[🔗 View on GitHub](https://github.com/PragatiNigam29/YOUR_REPO_NAME)** ### 2. Fake Chat Screenshot Detector
 An AI-powered web application that analyzes screenshots and detects possible manipulation using ELA.
 - **Stack:** Python, Django, OpenCV
+- **[🔗 View on GitHub](https://github.com/PragatiNigam29/YOUR_REPO_NAME)**
 
 ---
 
-## Connect
+## 📬 Connect
 - **GitHub:** [PragatiNigam29](https://github.com/PragatiNigam29)
 - **LinkedIn:** [Pragati Nigam](https://www.linkedin.com/in/pragati-nigam-305915373/)
-- **Email:** nigampragati1029@gmail.com
+- **Email:** [nigampragati1029@gmail.com](mailto:nigampragati1029@gmail.com)
 
 > *Building intelligent systems today for a smarter tomorrow.*
