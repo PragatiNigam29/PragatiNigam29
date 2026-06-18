@@ -1,6 +1,6 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=600&lines=PRAGATI+NIGAM;Full+Stack+Developer;Generative+AI+Engineer;Agentic+AI+Developer" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&background=8A2BE290&center=true&vCenter=true&width=800&height=100&lines=PRAGATI+NIGAM;Full+Stack+Developer;Generative+AI+Engineer;Agentic+AI+Developer" alt="Atyadhik Aakarshak Typing SVG" /></p>
 # Pragati Nigam
-AI | ML Engineer in Progress
+
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-AI%2FML-6A5ACD?style=for-the-badge)
 ![Student](https://img.shields.io/badge/Student-Engineer-7B68EE?style=for-the-badge)
@@ -41,18 +41,20 @@ My core focus areas include:
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 1. Autonomous AI Marketing and Branding Agency
 An autonomous multi-agent AI system that automates the end-to-end marketing, branding, and graphic design workflow.
 - **Stack:** Python, Streamlit, Ollama, ComfyUI API
-- **[🔗 View on GitHub](https://github.com/PragatiNigam29/YOUR_REPO_NAME)** ### 2. Fake Chat Screenshot Detector
+- **[🔗 View on GitHub](https://github.com/PragatiNigam29/YOUR_REPO_NAME)**
+
+---
+
+### 2. Fake Chat Screenshot Detector
 An AI-powered web application that analyzes screenshots and detects possible manipulation using ELA.
 - **Stack:** Python, Django, OpenCV
 - **[🔗 View on GitHub](https://github.com/PragatiNigam29/YOUR_REPO_NAME)**
 
----
 
 ## 📬 Connect
 - **GitHub:** [PragatiNigam29](https://github.com/PragatiNigam29)
